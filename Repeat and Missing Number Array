@@ -1,0 +1,23 @@
+vector<int> Solution::repeatedNumber(const vector<int> &A) {
+    int n = A.size();
+    vector<int> hash(n + 1, 0);  // Use vector instead of array for dynamic size
+    
+    // Count the occurrences of each number
+    for (int i = 0; i < n; i++) {
+        hash[A[i]]++;
+    }
+    
+    int repeated = -1, missing = -1;
+    
+    // Find the repeated and missing numbers
+    for (int i = 1; i <= n; i++) {  // Start from 1 since 0 is not a valid number in the array
+        if (hash[i] == 2) repeated = i;
+        if (hash[i] == 0) missing = i;
+        
+        // Break early if both numbers are found
+        if (repeated != -1 && missing != -1)
+            break;
+    }
+    
+    return {repeated, missing};
+}
