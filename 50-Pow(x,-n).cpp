@@ -3,25 +3,26 @@ public:
     double myPow(double x, int n) {
         if(n == 0) return 1.0;
 
-        if(n < 0){
+        double ans = 1.0;
+        long long N = n;  // Use long long to handle INT_MIN case
+
+        if(N < 0){
             x = 1/x;
-            n = -n;
+            N = -N;
         }
 
-        double ans = 1.0;
-
-        while(n>0){
-            if(n % 2 == 0){
+        while(N>0){
+            if(N % 2 == 0){
                 x = x*x;
-                n = n/2;
+                N = N/2;
 
             }
 
             else{
                 ans = ans*x;
-                n--;
+                N--;
             }
         }
-        
+        return ans;
     }
 };
