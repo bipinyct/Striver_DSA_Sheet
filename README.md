@@ -25,6 +25,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0090-subsets-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0090-subsets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +34,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
