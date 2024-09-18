@@ -12,7 +12,6 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 
 
 
-Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 
  ## Made by 
  - BIPIN SINGH: [GitHub](https://github.com/bipinyct) - [LinkedIn](https://www.linkedin.com/in/bipin-singh-24a9b0226)
