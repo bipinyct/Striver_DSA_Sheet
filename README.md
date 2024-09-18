@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0090-subsets-ii) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
