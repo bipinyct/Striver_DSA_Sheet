@@ -29,6 +29,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0046-permutations](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0090-subsets-ii) |
+| [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,4 +50,16 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0090-subsets-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
