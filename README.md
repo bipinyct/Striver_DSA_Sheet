@@ -62,4 +62,16 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
