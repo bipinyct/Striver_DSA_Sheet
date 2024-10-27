@@ -69,6 +69,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -85,6 +86,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0547-number-of-provinces) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0933-increasing-order-search-tree) |
@@ -96,6 +98,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0799-minimum-distance-between-bst-nodes) |
