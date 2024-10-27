@@ -69,6 +69,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -79,6 +80,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0547-number-of-provinces) |
+| [0975-range-sum-of-bst](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -86,6 +88,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -116,4 +119,8 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
