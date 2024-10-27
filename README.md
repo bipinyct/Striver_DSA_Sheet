@@ -69,6 +69,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
@@ -81,6 +82,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0547-number-of-provinces) |
+| [0904-leaf-similar-trees](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
@@ -90,6 +92,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
