@@ -71,6 +71,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -80,12 +81,14 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0547-number-of-provinces](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0547-number-of-provinces) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -93,6 +96,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0547-number-of-provinces) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
 |  |
