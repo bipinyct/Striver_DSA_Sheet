@@ -31,6 +31,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0090-subsets-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,4 +100,9 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
