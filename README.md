@@ -31,6 +31,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0090-subsets-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
+| [1039-find-the-town-judge](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1039-find-the-town-judge) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
@@ -137,6 +138,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0547-number-of-provinces) |
+| [1039-find-the-town-judge](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1039-find-the-town-judge) |
 ## Matrix
 |  |
 | ------- |
@@ -174,5 +176,6 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 ## Hash Table
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1039-find-the-town-judge) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
