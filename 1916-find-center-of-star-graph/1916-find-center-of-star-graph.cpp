@@ -1,9 +1,16 @@
 class Solution {
 public:
     int findCenter(vector<vector<int>>& edges) {
-        if (edges[0][0] == edges[1][0] || edges[0][0] == edges[1][1]) {
-            return edges[0][0];
+        int n = edges.size();
+        vector<int> data(n+2, 0);
+        for(auto x : edges){
+            data[x[0]]++;
+            data[x[1]]++;
         }
-        return edges[0][1];
+
+        for(int i=1; i<=n+1; i++){
+            if(data[i] == edges.size()) return i;
+        }
+        return -1;
     }
 };
