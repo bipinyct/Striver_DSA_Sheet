@@ -139,6 +139,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | ------- |
 | [0547-number-of-provinces](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1916-find-center-of-star-graph) |
 ## Matrix
 |  |
 | ------- |
