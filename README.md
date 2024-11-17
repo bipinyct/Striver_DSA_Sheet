@@ -32,6 +32,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1039-find-the-town-judge) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2586-longest-square-streak-in-an-array) |
@@ -130,6 +131,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0733-flood-fill](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1036-rotting-oranges) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
@@ -148,6 +150,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | ------- |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
