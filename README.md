@@ -29,6 +29,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0046-permutations](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0542-01-matrix) |
@@ -93,6 +94,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0110-balanced-binary-tree) |
+| [0130-surrounded-regions](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0547-number-of-provinces) |
@@ -126,6 +128,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0547-number-of-provinces) |
@@ -139,6 +142,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0547-number-of-provinces) |
 ## Graph
@@ -150,6 +154,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0733-flood-fill) |
