@@ -37,6 +37,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [1036-rotting-oranges](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1039-find-the-town-judge) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
@@ -194,5 +195,10 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1039-find-the-town-judge) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2586-longest-square-streak-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
