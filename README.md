@@ -197,8 +197,14 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [1039-find-the-town-judge](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1039-find-the-town-judge) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2586-longest-square-streak-in-an-array) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Sliding Window
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+## String
+|  |
+| ------- |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 <!---LeetCode Topics End-->
