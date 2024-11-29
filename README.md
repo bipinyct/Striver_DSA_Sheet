@@ -36,6 +36,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0733-flood-fill](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1039-find-the-town-judge) |
+| [1073-number-of-enclaves](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2586-longest-square-streak-in-an-array) |
@@ -107,6 +108,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0933-increasing-order-search-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
@@ -138,6 +140,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1073-number-of-enclaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
@@ -146,6 +149,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0130-surrounded-regions](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -160,6 +164,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0542-01-matrix](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
