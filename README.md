@@ -65,6 +65,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Greedy
 |  |
 | ------- |
@@ -211,5 +212,10 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 ## String
 |  |
 | ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
