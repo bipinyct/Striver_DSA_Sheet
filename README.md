@@ -107,6 +107,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0801-is-graph-bipartite) |
 | [0904-leaf-similar-trees](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0975-range-sum-of-bst) |
@@ -143,6 +144,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0617-merge-two-binary-trees](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1073-number-of-enclaves) |
@@ -154,6 +156,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0130-surrounded-regions](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
@@ -161,6 +164,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0207-course-schedule](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1916-find-center-of-star-graph) |
 ## Matrix
