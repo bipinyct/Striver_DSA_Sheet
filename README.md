@@ -233,4 +233,12 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | ------- |
 | [0207-course-schedule](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0210-course-schedule-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
