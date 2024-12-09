@@ -64,6 +64,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Greedy
@@ -236,6 +237,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0206-reverse-linked-list) |
 ## Recursion
