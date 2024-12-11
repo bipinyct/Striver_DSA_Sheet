@@ -241,6 +241,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
