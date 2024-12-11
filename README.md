@@ -67,6 +67,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Greedy
@@ -197,6 +198,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0234-palindrome-linked-list) |
 | [0933-increasing-order-search-tree](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0933-increasing-order-search-tree) |
 ## Design
 |  |
@@ -247,6 +249,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0141-linked-list-cycle](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -254,6 +257,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0002-add-two-numbers](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
