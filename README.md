@@ -65,6 +65,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Greedy
@@ -211,6 +212,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [1039-find-the-town-judge](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1039-find-the-town-judge) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/2586-longest-square-streak-in-an-array) |
@@ -240,6 +242,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0002-add-two-numbers](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
