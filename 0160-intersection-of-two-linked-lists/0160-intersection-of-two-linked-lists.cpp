@@ -29,6 +29,6 @@ public:
                 b = headA;
             }
         }
-        return a;
+        return b;
     }
 };
