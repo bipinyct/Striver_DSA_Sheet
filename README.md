@@ -32,6 +32,7 @@ You can find more about the sheet [here](https://takeuforward.org/interviews/str
 | [0130-surrounded-regions](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/bipinyct/Striver_DSA_Sheet/tree/master/1036-rotting-oranges) |
